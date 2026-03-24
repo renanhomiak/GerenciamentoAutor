@@ -13,7 +13,7 @@ public class AutorModel {
     private String autor;
     private Integer anoPublicacao;
 
-    public BookModel(){
+    public AutorModel(){
     }
 
     public Long getId() {
